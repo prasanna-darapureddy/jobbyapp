@@ -1,0 +1,105 @@
+.detailed-bg-container {
+  background-color: #000;
+  background-size: cover;
+  height: 100vh;
+}
+.job-card-container {
+  background-color: #2c364c;
+  border-radius: 6px;
+  padding: 20px;
+  margin: 40px 50px;
+  list-style-type: none;
+}
+.logo-position-container {
+  display: flex;
+  align-items: center;
+}
+.card-logo {
+  height: 80px;
+  width: 80px;
+  font-family: 'Roboto';
+  color: #fff;
+}
+.position-description-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  margin-left: 20px;
+}
+.position {
+  font-family: 'Roboto';
+  color: #fff;
+  margin-bottom: 0px;
+}
+.rating-container {
+  margin-top: 4px;
+  display: flex;
+  align-items: center;
+}
+.rating {
+  font-family: 'Roboto';
+  color: #fff;
+  margin-left: 6px;
+}
+.location-type-salary-container {
+  display: flex;
+  justify-content: space-between;
+}
+.location-job-type-container {
+  display: flex;
+}
+.location-container {
+  margin-right: 25px;
+  display: flex;
+  align-items: center;
+}
+.location {
+  font-family: 'Roboto';
+  color: #fff;
+  margin-left: 6px;
+}
+.job-type-container {
+  display: flex;
+  align-items: center;
+}
+.job-type {
+  font-family: 'Roboto';
+  color: #fff;
+  margin-left: 8px;
+}
+.salary-text {
+  font-family: 'Roboto';
+  color: #fff;
+}
+.description-heading {
+  font-family: 'Roboto';
+  color: #fff;
+}
+.job-description {
+  font-family: 'Roboto';
+  color: #fff;
+  line-height: 25px;
+}
+
+.description-head-web-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.web-link {
+  text-decoration: none;
+  cursor: pointer;
+}
+.visit-container {
+  display: flex;
+  align-items: center;
+}
+.visit-text {
+  color: #4f46e5;
+  font-size: 18px;
+  font-family: 'Roboto';
+  margin-right: 5px;
+}
+.right-top-arrow {
+  font-size: 20px;
+}
